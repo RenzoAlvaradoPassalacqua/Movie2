@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  AppleCoding OAuth
+
+  Created by Renzo Alvarado  
+  
+*/
+
+//
+// SEARCH
+//
+
+"SEARCH_TITLE" = "Top 10 - Popular Movies";
